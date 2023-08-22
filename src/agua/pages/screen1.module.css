@@ -1,0 +1,45 @@
+.Screen1{
+    display: flex; 
+    width: 100%; 
+    height: 100%; 
+    box-sizing: border-box; 
+background-color: #FFFFFF;flex-direction: column;justify-content: center;
+align-items: center;
+overflow: hidden;
+}
+.text-1-08e7f19f1870479e9832f4d6278a9426{
+    overflow: hidden;
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 40px;
+
+
+margin-bottom: 5vh;
+box-sizing: border-box;
+background: linear-gradient(103deg, #ff0036 0%, #ff9116 50%, #fe19fe 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-1-559b9310d1a541438d40f5d657b62bf4{
+    display: flex;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+border-radius: 4.265515222482439vh;overflow: hidden;
+background-color: transparent;
+height: fit-content;
+width: fit-content;
+flex-shrink: 0;
+    
+}
+.imageview-2-dcdb0c9c751d4da185ce2f095591d3a7{
+    object-fit: contain;
+    overflow: hidden;
+    
+height: 30vh;min-height: 30vh;
+width: 16vw;min-width: 16vw;
+    
+}
